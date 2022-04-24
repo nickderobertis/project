@@ -1,0 +1,15 @@
+{
+  "template_sources": [
+    {
+      "name": "one",
+      "path": "/home/nick/Dropbox/Python/flexlate-dev/tests/generated/one",
+      "type": "copier",
+      "version": "a6e386b97e1d7de2670e4fc4fee5b655",
+      "git_url": null,
+      "target_version": null,
+      "render_relative_root_in_output": ".",
+      "render_relative_root_in_template": "."
+    }
+  ],
+  "applied_templates": []
+}
